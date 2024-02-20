@@ -1,29 +1,35 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 12px;
+    font-size: 13px;
     max-width: 990px;
     margin: auto;
+    
 }
 h1 {
     font-size: 2em;
     letter-spacing: .3em;
-    padding-top: 6%;
+    padding-top: 3%;
     padding-bottom: 2em;
+    
 }
+
 
 h2 {
     font-size: 1.5em;
     padding-bottom: 1em;
+    
 }
 
 h3 {
     font-size: 1em;
     padding-bottom: 1em;
+    
 }
 main { 
     display: grid;
-    grid-template-columns: 40% 60%;
-    margin-top: 3em;
+    grid-template-columns: 30% 70%;
+    margin-top: 5em;
+    
 }
 
 header {
@@ -32,7 +38,8 @@ header {
 }
 
 section {
-    margin: auto 1em 4em 2em;
+    margin: auto 1em 4em 1em;
+    
 }
 
 i {
@@ -46,20 +53,29 @@ p {
 hr {
     border: none;
     background-color: lightgray;
-    height: 1px;
+    height: .1px;
 }
 
 h1, h2, h3 {
     font-weight: 100;
     margin-bottom: 0;
 }
-#mainLeft {
+mainLeft {
     border-right: 1px solid lightgray;
 }
-.wrapper{
-   
+img{
+    padding-top: 1em;
+    float:left ;
     
-    padding-top: 1%;
-    float: left;
-    max-width: 2px;
+}
+#container{
+    text-indent: 20PX;
+}
+
+
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
 }
