@@ -5,9 +5,9 @@ body {
     margin: auto;
 }
 h1 {
-    font-size: 3em;
-    letter-spacing: .6em;
-    padding-top: 1em;
+    font-size: 2em;
+    letter-spacing: .3em;
+    padding-top: 0%;
     padding-bottom: 1em;
 }
 
@@ -57,7 +57,7 @@ h1, h2, h3 {
     border-right: 1px solid lightgray;
 }
 .wrapper{
-    margin :  auto ;
-    width : 100px ;
-    height: 50px ;
+   
+    padding-right: 5000px;
+    padding-top: 3em;
 }
