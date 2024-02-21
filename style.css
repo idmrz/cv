@@ -63,8 +63,8 @@ h1, h2, h3 {
     font-weight: 100;
     margin-bottom: 0;
 }
-mainLeft {
-    border-right: 1px solid lightgray;
+#mainLeft {
+    border-right: 5px solid lightgray;
 }
 img{
     padding-top: 1em;
@@ -82,3 +82,10 @@ img{
 .alignright {
 	float: right;
 }
+
+#seperation{
+    font-size: 1em;
+    letter-spacing: .5em;
+    float: center;
+
+  }
