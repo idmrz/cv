@@ -39,16 +39,16 @@ header {
 }
 
 section {
-    margin: auto 1em 4em 1em;
+    margin: auto 1em 1em 1em;
     
 }
 
 i {
-    margin-right: .5em;
+    margin-right: .1em;
 }
 
 p {
-    margin: .2em auto
+    margin: .1em auto
 }
 
 
@@ -90,5 +90,11 @@ img{
     font-size: 1.3em;
     letter-spacing: .5em;
     float: center;
-
   }
+#contact{
+    font-size: 1.1em;
+
+}  
+
+
+
