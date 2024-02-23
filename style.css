@@ -27,7 +27,7 @@ h3 {
 main { 
     display: grid;
     grid-template-columns: 30% 70%;
-    margin-top: 2em;
+    margin-top: 5em;
     margin-left: 1em;
     
 }
